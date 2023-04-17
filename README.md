@@ -19,12 +19,8 @@
     <owl:Ontology rdf:about="http://www.ontology/ns/foo#">
         <owl:versionIRI rdf:resource="http://www.ontology/ns/foo/1.1#"/>
         <terms:rights rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
-    </owl:Ontology>
-    
-
-
-    <!-- 
-    ///////////////////////////////////////////////////////////////////////////////////////
+    </owl:Ontology>   
+   <!--    ///////////////////////////////////////////////////////////////////////////////////////
     //
     // Annotation properties
     //
