@@ -1,26 +1,50 @@
 <?xml version="1.0"?>
 <rdf:RDF xmlns="http://www.ontology/ns/foo#"
+
      xml:base="http://www.ontology/ns/foo"
+     
      xmlns:ns="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+     
      xmlns:wo="http://purl.org/ontology/wo/"
+     
      xmlns:foo="http://www.ontology/ns/foo/1.1#"
+     
      xmlns:owl="http://www.w3.org/2002/07/owl#"
+     
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     
      xmlns:sosa="http://www.w3.org/ns/sosa/"
+     
      xmlns:terms="http://purl.org/dc/terms/"
+     
      xmlns:schema="http://schema.org/"
+     
      xmlns:iot-lite="http://purl.oclc.org/NET/UNIS/fiware/iot-lite#"
+     
      xmlns:metadata="http://data.bioontology.org/metadata/"
+     
      xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#">
+     
     <owl:Ontology rdf:about="http://www.ontology/ns/foo#">
+    
         <owl:versionIRI rdf:resource="http://www.ontology/ns/foo/1.1#"/>
+        
         <terms:rights rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
-    </owl:Ontology>   
-   <!--    ///////////////////////////////////////////////////////////////////////////////////////
+        
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
     //
     // Annotation properties
     //
